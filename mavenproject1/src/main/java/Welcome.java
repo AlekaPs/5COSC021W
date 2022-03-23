@@ -13,7 +13,8 @@ public class Welcome {
     {
         String greetings = "Welcome";
         System.out.println(greetings);
-    
+        System.out.println();
+        System.out.println(greetings);
     
     }
 }
