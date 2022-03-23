@@ -15,6 +15,7 @@ public class Welcome {
         System.out.println(greetings);
         System.out.println();
         System.out.println(greetings);
+        System.out.println();
     
     }
 }
